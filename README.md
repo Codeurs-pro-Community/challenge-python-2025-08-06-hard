@@ -40,7 +40,7 @@ Créer une **application Python avec interface graphique (Tkinter)** qui génèr
 
 ## Exemple attendu :
 
-![password-generator-example](https://user-images.githubusercontent.com/example/password-generator-ui.png)
+![password-generator-example](https://github.com/fschuermeyer/password-generator)
 
 ---
 
